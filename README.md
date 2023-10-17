@@ -1,4 +1,6 @@
 Snake Game in C
+
+
 Description:
 This is a simple Snake game written in the C programming language. The game allows the player to control a snake represented by the character '8' using arrow keys or the 'W', 'A', 'S', 'D' keys. The objective is to eat the food ('*') to increase the player's score while avoiding collisions with the walls and the snake itself.
 
